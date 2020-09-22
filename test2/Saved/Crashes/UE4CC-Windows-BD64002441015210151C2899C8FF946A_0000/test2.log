@@ -1,0 +1,1334 @@
+﻿Log file open, 09/19/20 23:35:10
+LogInit: Display: Running engine for game: test2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.459627
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU:        Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz, GPU: Intel(R) HD Graphics 3000
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Ronin9192 -epicuserid=c28a0ee5ebb9475697ba0ad03ba5fce2 -epiclocale=pl
+LogInit: Base Directory: G:/ep/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.19-21.35.11:229][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.19-21.35.11:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:230][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:235][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.19-21.35.11:235][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.19-21.35.11:236][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:236][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.19-21.35.11:237][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.19-21.35.11:237][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.19-21.35.11:237][  0]LogHAL: Display: Platform has ~ 8 GB [8478572544 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.19-21.35.11:237][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.19-21.35.11:237][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.19-21.35.11:237][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Scalability.ini]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.19-21.35.11:238][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.19-21.35.11:239][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.19-21.35.11:239][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.19-21.35.11:239][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.19-21.35.11:239][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/grzes/Documents/test/test2/Saved/Config/Windows/Engine.ini]
+[2020.09.19-21.35.11:239][  0]LogInit: Computer: DESKTOP-QO5C3UV
+[2020.09.19-21.35.11:239][  0]LogInit: User: grzes
+[2020.09.19-21.35.11:239][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.19-21.35.11:239][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.19-21.35.11:240][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.09.19-21.35.11:240][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.19-21.35.11:240][  0]LogMemory: Process Physical Memory: 113.95 MB used, 113.96 MB peak
+[2020.09.19-21.35.11:240][  0]LogMemory: Process Virtual Memory: 95.28 MB used, 95.28 MB peak
+[2020.09.19-21.35.11:240][  0]LogMemory: Physical Memory: 6742.83 MB used,  1342.97 MB free, 8085.80 MB total
+[2020.09.19-21.35.11:240][  0]LogMemory: Virtual Memory: 5126.75 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.09.19-21.35.11:248][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.19-21.35.11:293][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.19-21.35.11:294][  0]LogInit: Using OS detected language (pl-PL).
+[2020.09.19-21.35.11:294][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.09.19-21.35.11:297][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.09.19-21.35.11:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.09.19-21.35.11:300][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.19-21.35.11:332][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.19-21.35.11:332][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.19-21.35.11:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.19-21.35.11:680][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.19-21.35.11:680][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.19-21.35.11:680][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.19-21.35.11:837][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2020.09.19-21.35.11:837][  0]LogD3D11RHI:       1998/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.19-21.35.11:839][  0]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/Windows/WindowsD3D11Device.cpp:349 
+ with error 887A0004 Error Code List: https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-error
+[2020.09.19-21.35.11:839][  0]LogD3D11RHI:    1. Unknown, failed to create test device.
+[2020.09.19-21.35.11:844][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.19-21.35.11:844][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.19-21.35.11:844][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.19-21.35.11:852][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.19-21.35.11:852][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.19-21.35.11:852][  0]LogWindows: EnumDisplayDevices:
+[2020.09.19-21.35.11:852][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:0 D:1)
+[2020.09.19-21.35.11:853][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.09.19-21.35.11:853][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2020.09.19-21.35.11:853][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2020.09.19-21.35.11:853][  0]LogWindows:    4. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2020.09.19-21.35.11:853][  0]LogWindows:    5. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2020.09.19-21.35.11:853][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.09.19-21.35.11:853][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2020.09.19-21.35.11:853][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.09.19-21.35.11:853][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.09.19-21.35.11:853][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2020.09.19-21.35.11:921][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.09.19-21.35.11:924][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.09.19-21.35.11:924][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.19-21.35.11:950][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.19-21.35.13:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.19-21.35.13:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.19-21.35.13:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.19-21.35.13:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.19-21.35.13:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.09.19-21.35.13:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.19-21.35.13:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.19-21.35.13:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.19-21.35.13:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.19-21.35.13:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.19-21.35.13:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.19-21.35.13:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.19-21.35.13:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.19-21.35.13:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.19-21.35.13:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.19-21.35.13:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.19-21.35.13:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.19-21.35.13:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.19-21.35.13:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.19-21.35.13:313][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.19-21.35.13:327][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.19-21.35.13:420][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/grzes/Documents/test/test2/Intermediate/Shaders/WorkingDirectory/1892/).
+[2020.09.19-21.35.13:420][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/grzes/AppData/Local/Temp/UnrealShaderWorkingDir/2C7F226F47811E77DBDC3EADEC0D24AA/'.
+[2020.09.19-21.35.13:422][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.19-21.35.13:422][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.19-21.35.13:422][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.19-21.35.14:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.19-21.35.14:766][  0]LogDerivedDataCache: Loaded boot cache 0.13s 75MB C:/Users/grzes/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.19-21.35.14:766][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/grzes/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.19-21.35.14:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/grzes/Documents/test/test2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.19-21.35.14:766][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.19-21.35.14:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/grzes/Documents/test/test2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.19-21.35.14:766][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.19-21.35.14:781][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.19-21.35.14:782][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.19-21.35.14:782][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.19-21.35.14:783][  0]LogDerivedDataCache: Using Local data cache path C:/Users/grzes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.19-21.35.14:783][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.19-21.35.14:783][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.19-21.35.14:860][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.19-21.35.14:861][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.19-21.35.14:911][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.09.19-21.35.15:290][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.19-21.35.15:523][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.19-21.35.15:523][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.19-21.35.15:523][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.19-21.35.15:523][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.19-21.35.15:523][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.19-21.35.15:553][  0]LogNetVersion: test2 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2804494026)
+[2020.09.19-21.35.16:379][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002C8A1711880), frame # 0
+[2020.09.19-21.35.16:379][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C8A166AAC0), frame # 0
+[2020.09.19-21.35.16:380][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C8A16B1E00), frame # 0
+[2020.09.19-21.35.16:983][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.592505 seconds
+[2020.09.19-21.35.16:990][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.09.19-21.35.16:990][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.09.19-21.35.16:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.19-21.35.17:655][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.19-21.35.17:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.19-21.35.17:787][  0]SourceControl: Source control is disabled
+[2020.09.19-21.35.17:788][  0]SourceControl: Source control is disabled
+[2020.09.19-21.35.17:792][  0]SourceControl: Source control is disabled
+[2020.09.19-21.35.17:797][  0]SourceControl: Source control is disabled
+[2020.09.19-21.35.17:806][  0]SourceControl: Source control is disabled
+[2020.09.19-21.35.17:824][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.19-21.35.17:825][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.19-21.35.18:237][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.19-21.35.18:267][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.19-21.35.18:267][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.19-21.35.18:343][  0]LogOcInput: OculusInput pre-init called
+[2020.09.19-21.35.18:357][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.19-21.35.18:357][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.19-21.35.18:445][  0]LogEngine: Initializing Engine...
+[2020.09.19-21.35.18:675][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.19-21.35.18:818][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.19-21.35.18:888][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.19-21.35.19:121][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.19-21.35.19:133][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.19-21.35.19:133][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C8A2DD7C00), frame # 0
+[2020.09.19-21.35.19:133][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C8A2E1EE80), frame # 0
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.19-21.35.19:159][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.19-21.35.19:159][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.19-21.35.19:160][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.19-21.35.19:160][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.19-21.35.19:177][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.19-21.35.19:177][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.19-21.35.19:235][  0]LogAudioMixer: Display: Using Audio Device Głośniki (High Definition Audio Device)
+[2020.09.19-21.35.19:238][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.19-21.35.19:242][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.19-21.35.19:242][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.19-21.35.19:243][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.19-21.35.19:245][  0]LogInit: FAudioDevice initialized.
+[2020.09.19-21.35.19:246][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.19-21.35.22:335][  0]LogDerivedDataCache: Saved boot cache 3.09s 75MB C:/Users/grzes/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.19-21.35.22:336][  0]LogInit: Texture streaming: Enabled
+[2020.09.19-21.35.22:555][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.19-21.35.22:555][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.19-21.35.22:628][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.19-21.35.22:940][  0]LogInit: Transaction tracking system initialized
+[2020.09.19-21.35.22:972][  0]BlueprintLog: New page: Editor Load
+[2020.09.19-21.35.23:144][  0]LocalizationService: Localization service is disabled
+[2020.09.19-21.35.23:428][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.19-21.35.23:428][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.09.19-21.35.25:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grzes/Documents/test/test2/Content/' took 0.11s
+[2020.09.19-21.35.25:178][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.19-21.35.25:178][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.19-21.35.25:773][  0]SourceControl: Source control is disabled
+[2020.09.19-21.35.25:773][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.288
+[2020.09.19-21.35.25:773][  0]Cmd: MAP LOAD FILE="C:/Users/grzes/Documents/test/test2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.19-21.35.25:911][  0]LightingResults: New page: Lighting Build
+[2020.09.19-21.35.25:912][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-21.35.25:912][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-21.35.25:912][  0]MapCheck: New page: Map Check
+[2020.09.19-21.35.25:912][  0]LightingResults: New page: Lighting Build
+[2020.09.19-21.35.25:921][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C8A2DD7C00), frame # 0
+[2020.09.19-21.35.25:921][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C8A2E1EE80), frame # 0
+[2020.09.19-21.35.25:922][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.09.19-21.35.41:538][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.19-21.35.41:538][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C89960BE00), frame # 0
+[2020.09.19-21.35.41:538][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C899664B80), frame # 0
+[2020.09.19-21.35.44:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.19-21.35.45:032][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.09.19-21.35.45:033][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.19-21.35.45:033][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,214ms to complete.
+[2020.09.19-21.35.45:033][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 19.260
+[2020.09.19-21.35.45:079][  0]LogUnrealEdMisc: Total Editor Startup Time, took 37.594
+[2020.09.19-21.35.49:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.19-21.35.49:868][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.19-21.35.49:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.19-21.35.49:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.19-21.35.51:036][  0]LogCollectionManager: Loaded 0 collections in 0.048057 seconds
+[2020.09.19-21.35.52:510][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grzes/Documents/test/test2/Saved/Collections/' took 0.00s
+[2020.09.19-21.35.52:510][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grzes/Documents/test/test2/Content/Developers/grzes/Collections/' took 0.00s
+[2020.09.19-21.35.52:510][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grzes/Documents/test/test2/Content/Collections/' took 0.00s
+[2020.09.19-21.35.52:510][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 3427 classes and 821 folders.
+[2020.09.19-21.35.53:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.19-21.35.59:093][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.09.19-21.35.59:188][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.09.19-21.36.00:813][  0]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.19-21.36.01:166][  0]LogSlate: Took 0.000593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.19-21.36.01:260][  0]LogSlate: Took 0.015210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.19-21.36.02:131][  0]LogRenderer: Reallocating scene render targets to support 1528x572 Format 10 NumSamples 1 (Frame:1).
+[2020.09.19-21.36.04:420][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.09.19-21.36.04:421][  0]LogLoad: (Engine Initialization) Total time: 56.94 seconds
+[2020.09.19-21.36.04:421][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.19-21.36.04:589][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.19-21.36.05:021][  0]LogSlate: Took 0.102609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.19-21.36.05:198][  1]LogAssetRegistry: Asset discovery search completed in 50.2885 seconds
+[2020.09.19-21.36.05:206][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.09.19-21.36.52:274][216]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.19-21.36.52:311][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.09.19-21.36.53:746][216]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2020.09.19-21.36.56:868][216]LogSlate: Took 0.000754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.19-21.36.57:751][217]LogSlate: Took 0.029805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.19-21.37.00:959][393]LogRenderer: Reallocating scene render targets to support 1528x900 Format 10 NumSamples 1 (Frame:80).
+[2020.09.19-21.37.44:793][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="C:/Users/grzes/Documents/test/test2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.19-21.37.45:218][ 32]LogSavePackage: Moving 'C:/Users/grzes/Documents/test/test2/Saved/ThirdPersonCharacterF643B1F14FE16E977CCC23AD52CEDAE7.tmp' to 'C:/Users/grzes/Documents/test/test2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.19-21.37.45:289][ 32]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.09.19-21.37.45:289][ 32]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.09.19-21.37.50:212][320]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.09.19-21.37.50:218][320]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.09.19-21.37.50:267][320]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-21.37.50:267][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-21.37.51:515][420]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.19-21.37.51:703][420]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.09.19-21.37.51:704][420]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.09.19-21.37.51:876][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.09.19-21.37.51:878][420]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2020.09.19-21.37.51:997][420]PIE: New page: PIE session: ThirdPersonExampleMap (20 wrz 2020, 01:37:51)
+[2020.09.19-21.37.52:024][420]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.19-21.37.52:031][420]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.19-21.37.52:050][420]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.09.19-21.37.52:111][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060426s)
+[2020.09.19-21.37.52:129][420]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.19-21.37.52:129][420]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C8F95BB600), frame # 8420
+[2020.09.19-21.37.52:129][420]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C89925C2C0), frame # 8420
+[2020.09.19-21.37.52:129][420]LogPlayLevel: PIE: World Init took: (0.017603s)
+[2020.09.19-21.37.52:129][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.078312s)
+[2020.09.19-21.37.52:154][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.19-21.37.52:171][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.19-21.37.52:171][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.19-21.37.52:172][420]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.19-21.37.52:172][420]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.19-21.37.52:179][420]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.19-21.37.52:179][420]LogAudioMixer: Display: 1: FrontRight
+[2020.09.19-21.37.52:207][420]LogAudioMixer: Display: Using Audio Device Głośniki (High Definition Audio Device)
+[2020.09.19-21.37.52:207][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.19-21.37.52:207][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.19-21.37.52:207][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.19-21.37.52:208][420]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.19-21.37.52:231][420]LogInit: FAudioDevice initialized.
+[2020.09.19-21.37.52:251][420]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.19-21.37.52:508][420]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.09.19-23.37.52
+[2020.09.19-21.37.52:583][420]LogWorld: Bringing up level for play took: 0.077230
+[2020.09.19-21.37.52:611][420]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.09.19-21.37.52:892][420]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.09.19-21.37.52:926][420]PIE: Server logged in
+[2020.09.19-21.37.52:927][420]PIE: Play in editor total start time 1,381 seconds.
+[2020.09.19-21.38.11:632][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.19-21.38.11:643][313]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.09.19-21.38.11:644][313]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-21.38.11:644][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-21.38.11:653][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.19-21.38.11:659][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-21.38.11:692][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.19-21.38.11:752][313]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C89925C2C0), frame # 10313
+[2020.09.19-21.38.11:752][313]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C8F95BB600), frame # 10313
+[2020.09.19-21.38.11:794][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.09.19-21.38.11:857][314]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.09.19-21.38.14:328][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.19-21.39.39:971][588]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/grzes/Desktop/Rysunki/blender/Men/end.fbx)
+[2020.09.19-21.39.40:637][588]LogFbx: Loading FBX Scene from C:/Users/grzes/Desktop/Rysunki/blender/Men/end.fbx
+[2020.09.19-21.39.40:945][588]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.19-21.40.06:121][588]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.19-21.40.06:537][588]LogFbx: Valid bind pose for Pose (Cube.002) - man
+[2020.09.19-21.40.06:908][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/oCZY.oCZY needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.06:910][588]LogMaterial: Display: Missing cached shader map for material oCZY, compiling. 
+[2020.09.19-21.40.07:694][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.09.19-21.40.07:694][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.09.19-21.40.07:694][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.09.19-21.40.07:694][588]LogTexture: Display: Building textures: Man_ttex (AutoDXT, 2048X2048)
+[2020.09.19-21.40.09:059][588]LogMaterial: Display: Missing cached shader map for material oCZY, compiling. 
+[2020.09.19-21.40.09:126][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/Głowa.Głowa needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.09:155][588]LogMaterial: Display: Missing cached shader map for material Głowa, compiling. 
+[2020.09.19-21.40.09:355][588]LogTexture: Display: Building textures: Man_ttex (AutoDXT, 2048X2048)
+[2020.09.19-21.40.10:693][588]LogMaterial: Display: Missing cached shader map for material Głowa, compiling. 
+[2020.09.19-21.40.10:728][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/Tułów_ręce.Tułów_ręce needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.10:734][588]LogMaterial: Display: Missing cached shader map for material Tułów_ręce, compiling. 
+[2020.09.19-21.40.10:961][588]LogTexture: Display: Building textures: Man_ttex (AutoDXT, 2048X2048)
+[2020.09.19-21.40.12:514][588]LogMaterial: Display: Missing cached shader map for material Tułów_ręce, compiling. 
+[2020.09.19-21.40.12:549][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/nogi.nogi needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.12:550][588]LogMaterial: Display: Missing cached shader map for material nogi, compiling. 
+[2020.09.19-21.40.12:732][588]LogTexture: Display: Building textures: Man_ttex (AutoDXT, 2048X2048)
+[2020.09.19-21.40.14:205][588]LogMaterial: Display: Missing cached shader map for material nogi, compiling. 
+[2020.09.19-21.40.14:249][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/Buty.Buty needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.14:270][588]LogMaterial: Display: Missing cached shader map for material Buty, compiling. 
+[2020.09.19-21.40.14:550][588]LogTexture: Display: Building textures: Man_ttex (AutoDXT, 2048X2048)
+[2020.09.19-21.40.16:267][588]LogMaterial: Display: Missing cached shader map for material Buty, compiling. 
+[2020.09.19-21.40.16:301][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/Buty1.Buty1 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.16:325][588]LogMaterial: Display: Missing cached shader map for material Buty1, compiling. 
+[2020.09.19-21.40.16:552][588]LogTexture: Display: Building textures: Man_ttex (AutoDXT, 2048X2048)
+[2020.09.19-21.40.18:132][588]LogMaterial: Display: Missing cached shader map for material Buty1, compiling. 
+[2020.09.19-21.40.18:209][588]LogFbx: Triangulating skeletal mesh man
+[2020.09.19-21.40.19:063][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/1_2.1_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.19:064][588]LogMaterial: Display: Missing cached shader map for material 1_2, compiling. 
+[2020.09.19-21.40.19:294][588]LogTexture: Display: Building textures: Miecz_textura (AutoDXT, 2048X2048)
+[2020.09.19-21.40.19:784][588]LogMaterial: Display: Missing cached shader map for material 1_2, compiling. 
+[2020.09.19-21.40.19:828][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/2_2.2_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.19:830][588]LogMaterial: Display: Missing cached shader map for material 2_2, compiling. 
+[2020.09.19-21.40.20:007][588]LogTexture: Display: Building textures: Miecz_textura (AutoDXT, 2048X2048)
+[2020.09.19-21.40.20:737][588]LogMaterial: Display: Missing cached shader map for material 2_2, compiling. 
+[2020.09.19-21.40.20:773][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/3_2.3_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.20:774][588]LogMaterial: Display: Missing cached shader map for material 3_2, compiling. 
+[2020.09.19-21.40.21:045][588]LogTexture: Display: Building textures: Miecz_textura (AutoDXT, 2048X2048)
+[2020.09.19-21.40.21:628][588]LogMaterial: Display: Missing cached shader map for material 3_2, compiling. 
+[2020.09.19-21.40.21:662][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/4_2.4_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.21:663][588]LogMaterial: Display: Missing cached shader map for material 4_2, compiling. 
+[2020.09.19-21.40.21:815][588]LogTexture: Display: Building textures: Miecz_textura (AutoDXT, 2048X2048)
+[2020.09.19-21.40.22:417][588]LogMaterial: Display: Missing cached shader map for material 4_2, compiling. 
+[2020.09.19-21.40.22:451][588]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/character/5_2.5_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.09.19-21.40.22:453][588]LogMaterial: Display: Missing cached shader map for material 5_2, compiling. 
+[2020.09.19-21.40.22:586][588]LogTexture: Display: Building textures: Miecz_textura (AutoDXT, 2048X2048)
+[2020.09.19-21.40.23:121][588]LogMaterial: Display: Missing cached shader map for material 5_2, compiling. 
+[2020.09.19-21.40.23:155][588]LogFbx: Triangulating skeletal mesh Kostka
+[2020.09.19-21.40.23:625][588]LogFbx: Warning: Bones digested - 84  Depth of hierarchy - 8
+[2020.09.19-21.40.24:108][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 429
+[2020.09.19-21.40.24:959][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 419
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 0: 161 vertices, 13 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 1: 82 vertices, 2 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 2: 566 vertices, 5 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 3: 1158 vertices, 45 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 4: 484 vertices, 8 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 5: 170 vertices, 6 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 6: 55 vertices, 1 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 7: 116 vertices, 1 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 8: 48 vertices, 1 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 9: 36 vertices, 1 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 10: 41 vertices, 1 active bones
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 0: Material=0, 187 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 1: Material=1, 144 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 2: Material=2, 962 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 3: Material=3, 1808 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 4: Material=4, 832 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 5: Material=5, 258 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 6: Material=6, 31 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 7: Material=7, 96 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 8: Material=8, 32 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 9: Material=9, 32 triangles
+[2020.09.19-21.40.25:209][588]LogSkeletalMesh: Section 10: Material=10, 29 triangles
+[2020.09.19-21.40.25:284][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 409
+[2020.09.19-21.40.25:284][588]LogSkeletalMesh: Building Skeletal Mesh end...
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 0: 161 vertices, 13 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 1: 82 vertices, 2 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 2: 566 vertices, 5 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 3: 1158 vertices, 45 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 4: 484 vertices, 8 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 5: 170 vertices, 6 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 6: 55 vertices, 1 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 7: 116 vertices, 1 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 8: 48 vertices, 1 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 9: 36 vertices, 1 active bones
+[2020.09.19-21.40.25:425][588]LogSkeletalMesh: Section 10: 41 vertices, 1 active bones
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 0: Material=0, 187 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 1: Material=1, 144 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 2: Material=2, 962 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 3: Material=3, 1808 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 4: Material=4, 832 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 5: Material=5, 258 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 6: Material=6, 31 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 7: Material=7, 96 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 8: Material=8, 32 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 9: Material=9, 32 triangles
+[2020.09.19-21.40.25:426][588]LogSkeletalMesh: Section 10: Material=10, 29 triangles
+[2020.09.19-21.40.25:577][588]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/ThirdPersonBP/Blueprints/character/end.end
+[2020.09.19-21.40.29:709][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 399
+[2020.09.19-21.40.29:947][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 389
+[2020.09.19-21.40.31:365][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 379
+[2020.09.19-21.40.34:564][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 369
+[2020.09.19-21.40.34:802][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 359
+[2020.09.19-21.40.35:984][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 349
+[2020.09.19-21.40.39:487][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 339
+[2020.09.19-21.40.39:590][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 329
+[2020.09.19-21.40.40:197][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 319
+[2020.09.19-21.40.44:126][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 309
+[2020.09.19-21.40.44:702][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 299
+[2020.09.19-21.40.44:740][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 289
+[2020.09.19-21.40.48:639][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 279
+[2020.09.19-21.40.49:077][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 269
+[2020.09.19-21.40.50:158][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 259
+[2020.09.19-21.40.52:991][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 249
+[2020.09.19-21.40.53:580][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 239
+[2020.09.19-21.40.54:415][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 229
+[2020.09.19-21.40.57:840][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 219
+[2020.09.19-21.40.58:822][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 209
+[2020.09.19-21.40.59:124][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 199
+[2020.09.19-21.41.02:566][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 189
+[2020.09.19-21.41.02:991][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 179
+[2020.09.19-21.41.04:615][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 169
+[2020.09.19-21.41.07:397][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 159
+[2020.09.19-21.41.08:147][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 149
+[2020.09.19-21.41.14:575][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 139
+[2020.09.19-21.41.15:129][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 129
+[2020.09.19-21.41.17:281][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2020.09.19-21.41.21:740][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 109
+[2020.09.19-21.41.22:793][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 99
+[2020.09.19-21.41.22:845][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 89
+[2020.09.19-21.41.25:846][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 79
+[2020.09.19-21.41.27:538][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2020.09.19-21.41.28:482][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2020.09.19-21.41.30:249][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2020.09.19-21.41.31:690][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.09.19-21.41.33:060][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.09.19-21.41.35:153][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.09.19-21.41.36:268][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.09.19-21.41.37:318][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.09.19-21.41.38:196][588]LogSlate: Window 'Message' being destroyed
+[2020.09.19-21.41.38:199][588]Message dialog closed, result: YesAll, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2020.09.19-21.41.38:493][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.09.19-21.41.38:493][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.09.19-21.41.38:493][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.09.19-21.41.39:208][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.09.19-21.41.39:478][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.09.19-21.41.39:802][588]LogSlate: Window 'Message' being destroyed
+[2020.09.19-21.41.39:807][588]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2020.09.19-21.41.41:148][588]LogSlate: Window 'Message' being destroyed
+[2020.09.19-21.41.41:152][588]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'SK_Mannequin'.
+[2020.09.19-21.41.42:075][588]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.09.19-21.41.42:076][588]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-21.41.42:076][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-21.41.42:264][588]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-21.41.42:264][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(0) Szkielet
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(1) pelivis
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(2) spine1
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(3) spine2
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(4) neek
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(5) head
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(6) head_end
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(7) arm1_l_R
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(8) arm2_l_R
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(9) arm3_l_R
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(10) arm3_l_R_end
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(11) arm1_l_L
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(12) arm2_l_L
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(13) arm3_l_L
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(14) arm3_l_L_end
+[2020.09.19-21.41.42:388][588]LogFbx: SortedLinks :(15) leg1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(16) leg2_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(17) leg2_l_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(18) leg1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(19) leg2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(20) leg2_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(21) Kneelk_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(22) Kneelk_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(23) footlk_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(24) foot1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(25) foot2_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(26) foot2_l_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(27) elbowlk_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(28) elbowlk_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(29) handlk_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(30) hand1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(31) finger1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(32) finger2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(33) finger3_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(34) finger3_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(35) fingger1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(36) fingger2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(37) fingger3_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(38) fingger3_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(39) ffinger1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(40) ffinger2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(41) ffinger3_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(42) ffinger3_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(43) fiinger1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(44) fiinger2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(45) fiinger3_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(46) fiinger3_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(47) finngerr1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(48) fingerr2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(49) fiinggerr3_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(50) fiinggerr3_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(51) Kneelk_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(52) Kneelk_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(53) footlk_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(54) foot1_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(55) foot2_l_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(56) foot2_l_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(57) elbowlk_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(58) elbowlk_L_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(59) handlk_L
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(60) hand1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(61) finger1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(62) finger2_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(63) finger3_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(64) finger3_l_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(65) fingger1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(66) fingger2_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(67) fingger3_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(68) fingger3_l_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(69) ffinger1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(70) ffinger2_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(71) ffinger3_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(72) ffinger3_l_R_end
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(73) fiinger1_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(74) fiinger2_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(75) fiinger3_l_R
+[2020.09.19-21.41.42:389][588]LogFbx: SortedLinks :(76) fiinger3_l_R_end
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(77) finngerr1_l_R
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(78) fingerr2_l_R
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(79) fiinggerr3_l_R
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(80) fiinggerr3_l_R_end
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(81) wepon
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(82) Kostka
+[2020.09.19-21.41.42:390][588]LogFbx: SortedLinks :(83) wepon_end
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(0) Szkielet
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(1) pelivis
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(2) spine1
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(3) spine2
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(4) neek
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(5) head
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(6) head_end
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(7) arm1_l_R
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(8) arm2_l_R
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(9) arm3_l_R
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(10) arm3_l_R_end
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(11) arm1_l_L
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(12) arm2_l_L
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(13) arm3_l_L
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(14) arm3_l_L_end
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(15) leg1_l_R
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(16) leg2_l_R
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(17) leg2_l_R_end
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(18) leg1_l_L
+[2020.09.19-21.41.42:407][588]LogFbx: SortedLinks :(19) leg2_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(20) leg2_l_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(21) Kneelk_R
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(22) Kneelk_R_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(23) footlk_R
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(24) foot1_l_R
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(25) foot2_l_R
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(26) foot2_l_R_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(27) elbowlk_R
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(28) elbowlk_R_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(29) handlk_R
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(30) hand1_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(31) finger1_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(32) finger2_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(33) finger3_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(34) finger3_l_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(35) fingger1_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(36) fingger2_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(37) fingger3_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(38) fingger3_l_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(39) ffinger1_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(40) ffinger2_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(41) ffinger3_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(42) ffinger3_l_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(43) fiinger1_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(44) fiinger2_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(45) fiinger3_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(46) fiinger3_l_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(47) finngerr1_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(48) fingerr2_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(49) fiinggerr3_l_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(50) fiinggerr3_l_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(51) Kneelk_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(52) Kneelk_L_end
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(53) footlk_L
+[2020.09.19-21.41.42:408][588]LogFbx: SortedLinks :(54) foot1_l_L
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(55) foot2_l_L
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(56) foot2_l_L_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(57) elbowlk_L
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(58) elbowlk_L_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(59) handlk_L
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(60) hand1_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(61) finger1_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(62) finger2_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(63) finger3_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(64) finger3_l_R_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(65) fingger1_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(66) fingger2_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(67) fingger3_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(68) fingger3_l_R_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(69) ffinger1_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(70) ffinger2_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(71) ffinger3_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(72) ffinger3_l_R_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(73) fiinger1_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(74) fiinger2_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(75) fiinger3_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(76) fiinger3_l_R_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(77) finngerr1_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(78) fingerr2_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(79) fiinggerr3_l_R
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(80) fiinggerr3_l_R_end
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(81) wepon
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(82) Kostka
+[2020.09.19-21.41.42:409][588]LogFbx: SortedLinks :(83) wepon_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(0) Szkielet
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(1) pelivis
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(2) spine1
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(3) spine2
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(4) neek
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(5) head
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(6) head_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(7) arm1_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(8) arm2_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(9) arm3_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(10) arm3_l_R_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(11) arm1_l_L
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(12) arm2_l_L
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(13) arm3_l_L
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(14) arm3_l_L_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(15) leg1_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(16) leg2_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(17) leg2_l_R_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(18) leg1_l_L
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(19) leg2_l_L
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(20) leg2_l_L_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(21) Kneelk_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(22) Kneelk_R_end
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(23) footlk_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(24) foot1_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(25) foot2_l_R
+[2020.09.19-21.41.42:412][588]LogFbx: SortedLinks :(26) foot2_l_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(27) elbowlk_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(28) elbowlk_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(29) handlk_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(30) hand1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(31) finger1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(32) finger2_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(33) finger3_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(34) finger3_l_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(35) fingger1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(36) fingger2_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(37) fingger3_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(38) fingger3_l_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(39) ffinger1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(40) ffinger2_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(41) ffinger3_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(42) ffinger3_l_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(43) fiinger1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(44) fiinger2_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(45) fiinger3_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(46) fiinger3_l_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(47) finngerr1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(48) fingerr2_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(49) fiinggerr3_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(50) fiinggerr3_l_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(51) Kneelk_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(52) Kneelk_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(53) footlk_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(54) foot1_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(55) foot2_l_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(56) foot2_l_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(57) elbowlk_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(58) elbowlk_L_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(59) handlk_L
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(60) hand1_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(61) finger1_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(62) finger2_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(63) finger3_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(64) finger3_l_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(65) fingger1_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(66) fingger2_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(67) fingger3_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(68) fingger3_l_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(69) ffinger1_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(70) ffinger2_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(71) ffinger3_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(72) ffinger3_l_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(73) fiinger1_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(74) fiinger2_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(75) fiinger3_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(76) fiinger3_l_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(77) finngerr1_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(78) fingerr2_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(79) fiinggerr3_l_R
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(80) fiinggerr3_l_R_end
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(81) wepon
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(82) Kostka
+[2020.09.19-21.41.42:413][588]LogFbx: SortedLinks :(83) wepon_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(0) Szkielet
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(1) pelivis
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(2) spine1
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(3) spine2
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(4) neek
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(5) head
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(6) head_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(7) arm1_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(8) arm2_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(9) arm3_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(10) arm3_l_R_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(11) arm1_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(12) arm2_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(13) arm3_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(14) arm3_l_L_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(15) leg1_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(16) leg2_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(17) leg2_l_R_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(18) leg1_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(19) leg2_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(20) leg2_l_L_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(21) Kneelk_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(22) Kneelk_R_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(23) footlk_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(24) foot1_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(25) foot2_l_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(26) foot2_l_R_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(27) elbowlk_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(28) elbowlk_R_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(29) handlk_R
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(30) hand1_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(31) finger1_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(32) finger2_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(33) finger3_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(34) finger3_l_L_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(35) fingger1_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(36) fingger2_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(37) fingger3_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(38) fingger3_l_L_end
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(39) ffinger1_l_L
+[2020.09.19-21.41.42:416][588]LogFbx: SortedLinks :(40) ffinger2_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(41) ffinger3_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(42) ffinger3_l_L_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(43) fiinger1_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(44) fiinger2_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(45) fiinger3_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(46) fiinger3_l_L_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(47) finngerr1_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(48) fingerr2_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(49) fiinggerr3_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(50) fiinggerr3_l_L_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(51) Kneelk_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(52) Kneelk_L_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(53) footlk_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(54) foot1_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(55) foot2_l_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(56) foot2_l_L_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(57) elbowlk_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(58) elbowlk_L_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(59) handlk_L
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(60) hand1_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(61) finger1_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(62) finger2_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(63) finger3_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(64) finger3_l_R_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(65) fingger1_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(66) fingger2_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(67) fingger3_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(68) fingger3_l_R_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(69) ffinger1_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(70) ffinger2_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(71) ffinger3_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(72) ffinger3_l_R_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(73) fiinger1_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(74) fiinger2_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(75) fiinger3_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(76) fiinger3_l_R_end
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(77) finngerr1_l_R
+[2020.09.19-21.41.42:417][588]LogFbx: SortedLinks :(78) fingerr2_l_R
+[2020.09.19-21.41.42:418][588]LogFbx: SortedLinks :(79) fiinggerr3_l_R
+[2020.09.19-21.41.42:418][588]LogFbx: SortedLinks :(80) fiinggerr3_l_R_end
+[2020.09.19-21.41.42:418][588]LogFbx: SortedLinks :(81) wepon
+[2020.09.19-21.41.42:418][588]LogFbx: SortedLinks :(82) Kostka
+[2020.09.19-21.41.42:418][588]LogFbx: SortedLinks :(83) wepon_end
+[2020.09.19-21.41.42:491][588]LogFbx: Parsing AnimStack walk.001
+[2020.09.19-21.41.42:908][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.09.19-21.41.42:908][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.09.19-21.41.42:908][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/character/end_Anim_walk_001.end_Anim_walk_001
+[2020.09.19-21.41.42:935][588]LogFbx: Parsing AnimStack Szkielet|fuck
+[2020.09.19-21.41.42:965][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.09.19-21.41.42:965][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.09.19-21.41.42:999][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.09.19-21.41.43:001][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.09.19-21.41.43:104][588]LogFbx: Parsing AnimStack Szkielet|stay
+[2020.09.19-21.41.43:375][588]LogFbx: Parsing AnimStack Szkielet|walk
+[2020.09.19-21.41.43:790][588]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.09.19-21.41.43:790][588]FBXImport: Warning: The following bones are missing from the bind pose:
+head_end  
+arm3.l.R_end  
+arm3.l.L_end  
+leg2.l.R_end  
+leg2.l.L_end  
+Kneelk.R_end  
+foot2.l.R_end  
+elbowlk.R_end  
+finger3.l.L_end  
+fingger3.l.L_end  
+ffinger3.l.L_end  
+fiinger3.l.L_end  
+fiinggerr3.l.L_end  
+Kneelk.L_end  
+foot2.l.L_end  
+elbowlk.L_end  
+finger3.l.R_end  
+fingger3.l.R_end  
+ffinger3.l.R_end  
+fiinger3.l.R_end  
+fiinggerr3.l.R_end  
+Kostka  
+wepon_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.09.19-21.41.44:454][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/character/end_Anim_Szkielet_walk.end_Anim_Szkielet_walk
+[2020.09.19-21.41.44:454][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/character/end_Anim_Szkielet_stay.end_Anim_Szkielet_stay
+[2020.09.19-21.41.44:454][588]LogSlate: Took 0.057195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.19-21.41.44:512][590]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/character/end_Anim_Szkielet_fuck.end_Anim_Szkielet_fuck
+[2020.09.19-21.41.46:235][591]LogSlate: Window 'Message' being destroyed
+[2020.09.19-21.41.46:245][591]Message dialog closed, result: Ok, title: Message, text: The Skeleton UE4_Mannequin_Skeleton, is missing bones that SkeletalMesh SK_Mannequin needs. They will be added now. Please save the Skeleton!
+[2020.09.19-21.41.46:246][591]LoadErrors: Error: The Skeleton  UE4_Mannequin_Skeleton  is missing bones that SkeletalMesh  SK_Mannequin   needs. They will be added now. Please save the Skeleton!
+[2020.09.19-21.41.48:369][718]LogSlate: Window 'Message Log' being destroyed
+[2020.09.19-21.41.48:376][718]LogSlate: Window 'Message Log' being destroyed
+[2020.09.19-21.42.01:243][285]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/character/end.end
+[2020.09.19-21.42.01:465][285]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.09.19-21.42.02:198][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.19-21.42.02:307][285]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.09.19-21.42.02:716][285]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.19-21.42.08:273][432]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.09.19-21.42.11:166][432]LogSlate: Window 'Message' being destroyed
+[2020.09.19-21.42.11:169][432]Message dialog closed, result: No, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2020.09.19-21.42.12:522][432]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.19-21.42.19:908][432]LogStats: FPlatformStackWalk::StackWalkAndDump -  7.385 s
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: 
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 923]
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: Type mismatch: Expected ThirdPerson_AnimBP_C, Found AnimPreviewInstance
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: Stack: 
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc788d7a27 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc7734a365 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc594d512b UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc594bf1a4 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc60f41a5a UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc7415de29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc7415f22d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc7415ef5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc59a6621c UE4Editor-Persona.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc59a2987f UE4Editor-Persona.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc75230b42 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc7521b470 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc75062dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc750e69cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc750cf4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffc750c2392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffcb01c7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.19-21.42.19:956][432]LogOutputDevice: Error: [Callstack] 0x00007ffcb01b5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcb01ca609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcb01b17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcd87263ed USER32.dll!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcd8725de2 USER32.dll!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcb01cbb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ff732c468c4 UE4Editor.exe!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ff732c5ba7c UE4Editor.exe!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ff732c5bb5a UE4Editor.exe!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ff732c6e31d UE4Editor.exe!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ff732c7145a UE4Editor.exe!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcd84f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.19-21.42.19:957][432]LogOutputDevice: Error: [Callstack] 0x00007ffcda08ced1 ntdll.dll!UnknownFunction []
+[2020.09.19-21.42.19:958][432]LogOutputDevice: Error: 
